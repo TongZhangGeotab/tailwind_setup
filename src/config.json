@@ -1,0 +1,27 @@
+{
+  "name": "install_tailwind",
+  "supportEmail": "",
+  "version": "0.0.1",
+  "items": [{
+    
+    "url": "install_tailwind.html",
+    
+    
+    
+    "url": "installTailwind.html",
+    "path": "ActivityLink/",
+    "menuName": {
+      "en": "install_tailwind"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  
+  
+  "dev": {
+    "root": "installTailwind",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
