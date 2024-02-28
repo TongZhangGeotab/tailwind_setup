@@ -13,4 +13,4 @@ if(!geotab.addin.installTailwind){
     
 }
 
-require('./styles/main.css');
+require("./styles/output.css");
